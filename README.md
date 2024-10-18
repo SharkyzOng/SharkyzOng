@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SharkyzOng
+- 👀 I’m interested in Scripting for Roblox
+- 🌱 I’m currently learning .Lua
+- 💞️ I’m looking to collaborate on Roblox scripts
+- 📫 How to reach me: sharkyzwastaken_81511 Blue App
